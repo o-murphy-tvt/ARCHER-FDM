@@ -103,7 +103,8 @@
 
 #### <span id=p-1-4-1>[Рисунок 1.4.1 – Зовнішній вигляд ПДМ](#p-1-4-1)</span>
 
-![pic 1.4.1](/doc/media/image2_.png)
+<!-- ![pic 1.4.1](/doc/media/image2_.png) -->
+<img src="/doc/media/image2.png" alt="image" width="400">
 
 1. монітор; 
 2. індикатор заряду батареї; 
@@ -194,14 +195,16 @@
 
 <span id=p-2-3-1>[Рисунок 2.3.1 – Зовнішній вигляд екрану ПДМ в меню налаштування екрану](#p-2-3-1)</span>
 
-![Рисунок 2.3.1](/doc/media/image5.png)
+<!-- ![Рисунок 2.3.1](/doc/media/image5.png) -->
+<img src="/doc/media/image5.png" alt="image" width="400">
 
 &nbsp;&nbsp;&nbsp;&nbsp;Перемістіть поле вибору за допомогою кнопок `вгору` і `вниз` на панелі, потім коротко натисніть клавішу `MODE`, щоб підтвердити вибір і увійдіть в наступне підменю. 
 
 
 <span id=p-2-3-1-1>[2.3.1.1 - Пункт меню «Перегляд відео»](#p-2-3-1-1)</span>
 
-![Рисунок 2-3-1-1](/doc/media/image6.png)
+<!-- ![Рисунок 2-3-1-1](/doc/media/image6.png) -->
+<img src="/doc/media/image6.png" alt="image" width="400">
 
 &nbsp;&nbsp;&nbsp;&nbsp;Даний пункт використовується для перегляду у разі необхідності зображень, записаних з приладу, що підключено.
 
@@ -236,24 +239,30 @@
 2. Під’єднайте флеш носій до комп’ютера чи планшета на ОС Windows
 3. Запустіть Player. Програма присутня в теці Player на флеш носії що в комплекті 
 
-![image7](/doc/media/image7.png)
-![image8](/doc/media/image8.png)
+<!-- ![image7](/doc/media/image7.png) -->
+<img src="/doc/media/image7.png" alt="image" width="400">
+<!-- ![image8](/doc/media/image8.png) -->
+<img src="/doc/media/image8.png" alt="image" width="400">
 
 4. Натисніть кнопку `Open`
 
-![image9](/doc/media/image9.png)
+<!-- ![image9](/doc/media/image9.png) -->
+<img src="/doc/media/image9.png" alt="image" width="400">
 
 5. Оберіть носій `strecord` та натисніть `ОК`
 
-![image10](/doc/media/image10.png)
+<!-- ![image10](/doc/media/image10.png) -->
+<img src="/doc/media/image10.png" alt="image" width="400">
 
 6. Оберіть дату запису
 
 ![image11](/doc/media/image11.png)
+<img src="/doc/media/image11.png" alt="image" width="400">
 
 7. Натисніть `Play` для відтворення
 
-![image12](/doc/media/image12.png)
+<!-- ![image12](/doc/media/image12.png) -->
+<img src="/doc/media/image12.png" alt="image" width="400">
 
 Для навігації по відео перемістіть маркер (червона стрілка) утримуючи ліву кнопку
 миші на часові лінії рухаючи курсор
@@ -263,19 +272,22 @@
 
 1. Натисніть кнопку AVI
 2. Вкажіть час початку та кінця запису та натисніть ок
-![image13](/doc/media/image13.png)
+<!-- ![image13](/doc/media/image13.png) -->
+<img src="/doc/media/image13.png" alt="image" width="400">
 3. Перейдіть в теку (папку) `Player\avi`
-![image14](/doc/media/image14.png)
+<!-- ![image14](/doc/media/image14.png) -->
+<img src="/doc/media/image14.png" alt="image" width="400">
 4. Відкрийте файл в програвачі (windows media player, vlc, чи іншому)
 
-![image15](/doc/media/image15.png)
-
+<!-- ![image15](/doc/media/image15.png) -->
+<img src="/doc/media/image15.png" alt="image" width="400">
 
 #### <span id=p-2-3-1>Пункт меню «Налаштування»</span>
 
 <!-- <span id=p-2-3-3-1>Рисунок 2.3.3.1 – Зовнішній вигляд екрану ПДМ в підменю «Налаштування»</span> -->
 
-![image16](/doc/media/image16.png)
+<!-- ![image16](/doc/media/image16.png) -->
+<img src="/doc/media/image16.png" alt="image" width="400">
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Даний пункт використовується для налаштування основних параметрів системи: налаштування правильної дати, часу, мови спілкування, типи і формати даних. Параметри, які виділені напівжирним шрифтом та підкреслені повинні бути встановлені в даному підменю
@@ -295,7 +307,8 @@
 
 <!-- <span id=p-2-3-4-1>Рисунок 2.3.4.1 - Зовнішній вигляд екрану ПДМ в підменю «Керування»</span> -->
 
-![image17](/doc/media/image17.png)
+<!-- ![image17](/doc/media/image17.png) -->
+<img src="/doc/media/image17.png" alt="image" width="400">
 
 &nbsp;&nbsp;&nbsp;&nbsp;Пункт меню «Керування» використовується для службового налаштування параметрів відображення зображень з зовнішніх блоків та параметрів відображення відеозапису.
 
@@ -323,7 +336,8 @@
 
 <!-- <span id=p-2-3-5-1>Рисунок 2.3.5.1 - Зовнішній вигляд екрану ПДМ в підменю «Зображення» </span> -->
 
-![image18](/doc/media/image18.png)
+<!-- ![image18](/doc/media/image18.png) -->
+<img src="/doc/media/image18.png" alt="image" width="400">
 
 &nbsp;&nbsp;&nbsp;&nbsp;Даний пункт меню призначений для налаштування кількості одночасного відображення зображень в основному режимі роботи та при перегляді файлів відеозапису.
 
@@ -340,20 +354,19 @@
         * AV3:0.0.0.0
         * AV4:0.0.0.0
 * **Модель запису** - вид зображення на запису.
-    - Стан: <p align="center"><img src="/doc/media/image19.png" alignment="center" alt="image" width="32" height="32"></p>
-    (або, якщо застосовується канал 3, або обидва, тоді)
-    <p align="center"><img src="/doc/media/image20.png" alt="image" width="32"></p>
+    - Стан: <img src="/doc/media/image19.png" alt="image" width="24"></p> (або, якщо застосовується канал 3, або обидва, тоді) <img src="doc/media/image20.png" alt="image" width="24">
 * **Екран заставки** - вид зображення на екрані при старті системи.
     - Стан: Зберегти
 * **Режим відображ.** - можливі моделі зображення, що вмикаються кнопкою «Режим».
-    - Стан: <p align="center"><img src="/doc/media/image20.png" alt="image" width="32"></p>
+    - Стан: <img src="/doc/media/image20.png" alt="image" width="24"></p>
 
 
 ### <span id=p-2-4-4>Пункт меню «Система»</span>
 
 <!-- <span id=p-2-9-1>Рисунок 2.9.1 - Зовнішній вигляд екрану ПДМ в підменю «Система»</span> -->
 
-![image22](/doc/media/image22.jpeg)
+<!-- ![image22](/doc/media/image22.jpeg) -->
+<img src="/doc/media/image22.png" alt="image" width="400">
 
 &nbsp;&nbsp;&nbsp;&nbsp;Даний пункт меню призначений для роботи з системними налаштуваннями реєстратора (відеозапису).
 
