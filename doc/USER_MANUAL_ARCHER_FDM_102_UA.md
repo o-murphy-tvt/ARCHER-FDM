@@ -354,11 +354,11 @@
         * AV3:0.0.0.0
         * AV4:0.0.0.0
 * **Модель запису** - вид зображення на запису.
-    - Стан: <img src="/doc/media/image19.png" alt="image" width="24"></p> (або, якщо застосовується канал 3, або обидва, тоді) <img src="doc/media/image20.png" alt="image" width="24">
+    - Стан: <img src="/doc/media/image19.png" alt="image" width="24"></p> (або, якщо застосовується канал 3, або обидва, тоді) <img src="/doc/media/image20.png" alt="image" width="24">
 * **Екран заставки** - вид зображення на екрані при старті системи.
     - Стан: Зберегти
 * **Режим відображ.** - можливі моделі зображення, що вмикаються кнопкою «Режим».
-    - Стан: <img src="/doc/media/image20.png" alt="image" width="24"></p>
+    - Стан: <img src="/doc/media/image20.png" alt="image" width="24">
 
 
 ### <span id=p-2-4-4>Пункт меню «Система»</span>
